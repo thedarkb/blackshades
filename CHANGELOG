@@ -1,0 +1,7 @@
+Differences compared to the version available on icculus.org:
+
+- Mouse is now grabbed by default.
+
+- -lSDL_Image added to linker arguments in Makefile
+
+- Invert Mouse support added, based on code appropriated from Black Shades Enhanced.

@@ -1,0 +1,24 @@
+Screenwidth:
+1366
+Screenheight:
+768
+Mouse sensitivity:
+2
+Show fps and other info:
+1
+VBL sync:
+1
+Blood:
+1
+Blur:
+0
+Main Menu:
+1
+Custom levels:
+0
+Music:
+1
+azerty keyboard:
+0
+Invert Mouse:
+1
