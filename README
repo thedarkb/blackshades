@@ -1,8 +1,6 @@
 Black Shades
 By David Rosen
 
-Please do not give a vote unless you are running in OS 9, Black Shades can run under OS X but only under emulation which does not work nearly as well.
-
 Controls:
 WASD = walk
 shift = run
@@ -18,7 +16,7 @@ space = dive (while running forwards)
 keys for debug mode:
 
 tab = 3rdperson toggle
-f = Force Pushª :)
+f = Force PushÂª :)
 shift-x = switch weapons
 
 Thats it
@@ -62,9 +60,9 @@ the pin back in. You can knock people out if you hit them in the head, or  of co
 
 Troubleshooting:
 The only known bugs are:
-¥It doesn't work too well under classic emulation
-¥Occasional collision detection issues
-¥Turning virtual memory off can cause speed issues
+Â¥It doesn't work too well under classic emulation
+Â¥Occasional collision detection issues
+Â¥Turning virtual memory off can cause speed issues
 
 History:
 11-6 to 11-9 main menu, score, etc.
@@ -99,7 +97,7 @@ History:
 9-1 Too Busy
 8-31 Started basic civilian AI
 8-30 Fog fixed on ground and sky, better skeletal animation, pre-calced rotations for joints
-8-29 Real Lifeª intervened, no time
+8-29 Real LifeÂª intervened, no time
 8-28 Air control added, some collision fixed, occluding people, sky plane, ground does not occlude
 8-27 looking up/down changes animation, editors updated to CW 8, animation editor tweaks, optimised a bit
 8-26 look at previous soul position when going back into body, sound fx added, movement speed tweaks, can't see body while soul is released
